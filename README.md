@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there 👋
+
+Check out my [blog](https://forcepush.tech)!
+
+If you want to hire me, you can find my resume [here](https://forcepush.tech/resume).
 
 <!--
 **jidicula/jidicula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+You can also find me on Stack Overflow:
+
+<a href="https://stackoverflow.com/users/6310633/jidicula"><img src="https://stackoverflow.com/users/flair/6310633.png?theme=dark" width="208" height="58" alt="profile for jidicula at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for jidicula at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
