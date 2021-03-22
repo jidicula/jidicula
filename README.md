@@ -2,7 +2,7 @@
 
 Check out my [blog](https://forcepush.tech)!
 
-If you want to hire me, you can find my resume [here](https://forcepush.tech/resume).
+You can find my resume [here](https://forcepush.tech/resume).
 
 <!--
 **jidicula/jidicula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
